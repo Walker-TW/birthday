@@ -2,4 +2,4 @@ A project to create a web app that takes input from a user via a form. It then t
 
 Built using ruby and sinatra, while tested with Capybara.
 
-Project link: https://github.com/Walker-TW/birthday
+Project link: 'https://github.com/Walker-TW/birthday'
